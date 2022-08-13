@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Plus from "./Plus";
 
 function App() {
   const [count, setCount] = useState(0);
